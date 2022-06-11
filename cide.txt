@@ -2,4 +2,9 @@ what is your name
 Guruprasad
 what is your age
 27
+<<<<<<< HEAD
 karnataka
+=======
+Nationality
+2+3=5
+>>>>>>> 77d5b01c4f46c57ef692ee8e0c53acf008fa73dc
